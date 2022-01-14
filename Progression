@@ -3,4 +3,5 @@
 07/01 : afficher les X et les O en les dessinant avec notre fonction pygame.draw.line().
 11/01 : correction de certains bugs. Comme le fait que les valeurs des cases ne peuvent changer et régler le problème du compteur.
 13/01 : création d'un algorithm qui permet de définir le gagnant entre X et O
-13/01 : créer une fonctionnalité qui va nous permettre de recommencer le jeu
+13/01 : créer une fonctionnalité qui va nous permettre de recommencer le jeu (pas acquis)
+13/01 : faire un menu avec des messages
