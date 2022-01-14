@@ -1,1 +1,4 @@
 04/01 : Création de la fenetre et de la grille a l'aide de pygame
+06/01 : attribution des valeurs X et O
+07/01 : afficher les X et les O en les dessinant avec notre fonction pygame.draw.line().
+11/01 : correction de certains bugs. Comme le fait que les valeurs des cases ne peuvent changer et régler le problème du compteur.
